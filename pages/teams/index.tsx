@@ -7,7 +7,7 @@ import Box from '@mui/material/Box';
 import Chip from '@mui/material/Chip';
 import OutlinedInput from '@mui/material/OutlinedInput';
 
-import { teamsMock } from "./mocks";
+import { teamsMock } from "../../mocks/teams";
 import { Team } from "@/models";
 
 import { provinces } from "@/constanst/provinces";
