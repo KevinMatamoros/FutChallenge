@@ -34,7 +34,7 @@ export default function Page() {
       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm">
         <div className="mb-4">
           <h1 className="mb-8 text-2xl">Equipos</h1>
-          <div>
+          {/* <div>
             <InputLabel className="decoration-white" sx={{ color: "white" }}>
               Provincia
             </InputLabel>
@@ -71,7 +71,7 @@ export default function Page() {
                 </MenuItem>
               ))}
             </Select>
-          </div>
+          </div> */}
         </div>
 
         <div>
